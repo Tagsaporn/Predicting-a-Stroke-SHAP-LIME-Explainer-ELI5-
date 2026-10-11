@@ -1,0 +1,13 @@
+﻿,,Predicted: No Stroke,Predicted: Stroke
+LogReg (class_weight=balanced),Actual: No Stroke,868,104
+LogReg (class_weight=balanced),Actual: Stroke,20,30
+LogReg (SMOTE),Actual: No Stroke,835,137
+LogReg (SMOTE),Actual: Stroke,15,35
+RandomForest (class_weight=balanced_subsample),Actual: No Stroke,840,132
+RandomForest (class_weight=balanced_subsample),Actual: Stroke,23,27
+RandomForest (SMOTE),Actual: No Stroke,753,219
+RandomForest (SMOTE),Actual: Stroke,17,33
+XGBoost (scale_pos_weight),Actual: No Stroke,866,106
+XGBoost (scale_pos_weight),Actual: Stroke,28,22
+LightGBM (class_weight=balanced),Actual: No Stroke,842,130
+LightGBM (class_weight=balanced),Actual: Stroke,28,22

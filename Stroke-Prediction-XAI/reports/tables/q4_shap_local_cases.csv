@@ -1,0 +1,31 @@
+﻿case,record_index,feature,shap_value,direction,raw_value,predicted_prob,actual
+TP (ทำนายถูก-เป็น stroke),137,age,2.6935,ดันให้เป็น stroke,76.0,0.8855,1
+TP (ทำนายถูก-เป็น stroke),137,avg_glucose_level,0.4933,ดันให้เป็น stroke,207.28,0.8855,1
+TP (ทำนายถูก-เป็น stroke),137,hypertension,-0.0814,ดันให้ไม่เป็น stroke,0,0.8855,1
+TP (ทำนายถูก-เป็น stroke),137,Residence_type,0.0789,ดันให้เป็น stroke,Urban,0.8855,1
+TP (ทำนายถูก-เป็น stroke),137,work_type,-0.074,ดันให้ไม่เป็น stroke,Private,0.8855,1
+TP (ทำนายถูก-เป็น stroke),137,ever_married,-0.0567,ดันให้ไม่เป็น stroke,Yes,0.8855,1
+TP (ทำนายถูก-เป็น stroke),137,bmi,0.0454,ดันให้เป็น stroke,34.9,0.8855,1
+TP (ทำนายถูก-เป็น stroke),137,gender,0.0388,ดันให้เป็น stroke,Female,0.8855,1
+TP (ทำนายถูก-เป็น stroke),137,heart_disease,-0.0072,ดันให้ไม่เป็น stroke,0,0.8855,1
+TP (ทำนายถูก-เป็น stroke),137,smoking_status,0.0069,ดันให้เป็น stroke,Unknown,0.8855,1
+FN (พลาดผู้ป่วยจริง),133,age,-0.4662,ดันให้ไม่เป็น stroke,38.0,0.1482,1
+FN (พลาดผู้ป่วยจริง),133,smoking_status,0.1013,ดันให้เป็น stroke,formerly smoked,0.1482,1
+FN (พลาดผู้ป่วยจริง),133,Residence_type,-0.0964,ดันให้ไม่เป็น stroke,Rural,0.1482,1
+FN (พลาดผู้ป่วยจริง),133,hypertension,-0.0814,ดันให้ไม่เป็น stroke,0,0.1482,1
+FN (พลาดผู้ป่วยจริง),133,work_type,-0.074,ดันให้ไม่เป็น stroke,Private,0.1482,1
+FN (พลาดผู้ป่วยจริง),133,ever_married,-0.0567,ดันให้ไม่เป็น stroke,Yes,0.1482,1
+FN (พลาดผู้ป่วยจริง),133,gender,0.0388,ดันให้เป็น stroke,Female,0.1482,1
+FN (พลาดผู้ป่วยจริง),133,avg_glucose_level,-0.0084,ดันให้ไม่เป็น stroke,101.45,0.1482,1
+FN (พลาดผู้ป่วยจริง),133,heart_disease,-0.0072,ดันให้ไม่เป็น stroke,0,0.1482,1
+FN (พลาดผู้ป่วยจริง),133,bmi,-0.0066,ดันให้ไม่เป็น stroke,,0.1482,1
+FP (เตือนเกิน),1451,age,2.9429,ดันให้เป็น stroke,79.0,0.786,0
+FP (เตือนเกิน),1451,smoking_status,-0.2252,ดันให้ไม่เป็น stroke,never smoked,0.786,0
+FP (เตือนเกิน),1451,avg_glucose_level,-0.1123,ดันให้ไม่เป็น stroke,79.53,0.786,0
+FP (เตือนเกิน),1451,Residence_type,-0.0964,ดันให้ไม่เป็น stroke,Rural,0.786,0
+FP (เตือนเกิน),1451,hypertension,-0.0814,ดันให้ไม่เป็น stroke,0,0.786,0
+FP (เตือนเกิน),1451,work_type,-0.074,ดันให้ไม่เป็น stroke,Private,0.786,0
+FP (เตือนเกิน),1451,bmi,0.0638,ดันให้เป็น stroke,37.3,0.786,0
+FP (เตือนเกิน),1451,ever_married,-0.0567,ดันให้ไม่เป็น stroke,Yes,0.786,0
+FP (เตือนเกิน),1451,gender,0.0388,ดันให้เป็น stroke,Female,0.786,0
+FP (เตือนเกิน),1451,heart_disease,-0.0072,ดันให้ไม่เป็น stroke,0,0.786,0

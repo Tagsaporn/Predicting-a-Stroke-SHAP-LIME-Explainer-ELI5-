@@ -1,0 +1,11 @@
+﻿feature,type,test,p_adjusted,effect_size,metric,significant
+age,continuous,Mann-Whitney U,1.1549202473901991e-70,0.669,rank-biserial,True
+avg_glucose_level,continuous,Mann-Whitney U,5.374642480904561e-09,0.2214,rank-biserial,True
+bmi,continuous,Mann-Whitney U,0.0001041877212380827,0.1584,rank-biserial,True
+heart_disease,categorical,Chi-square,1.4845817932023457e-20,0.1342,Cramér's V,True
+hypertension,categorical,Chi-square,5.911276886937012e-19,0.1271,Cramér's V,True
+ever_married,categorical,Chi-square,3.934666444723806e-14,0.1074,Cramér's V,True
+work_type,categorical,Chi-square,9.465812071620203e-10,0.094,Cramér's V,True
+smoking_status,categorical,Chi-square,2.8107858458551645e-06,0.0717,Cramér's V,True
+Residence_type,categorical,Chi-square,0.3497961119001258,0.0065,Cramér's V,False
+gender,categorical,Chi-square,0.5598277580669416,0.0,Cramér's V,False

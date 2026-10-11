@@ -1,0 +1,13 @@
+﻿column,dtype,n_missing,pct_missing,n_unique,sample_values
+id,int64,0,0.0,5110,"9046, 51676, 31112, 60182"
+gender,str,0,0.0,3,"Male, Female, Other"
+age,float64,0,0.0,104,"67.0, 61.0, 80.0, 49.0"
+hypertension,int64,0,0.0,2,"0, 1"
+heart_disease,int64,0,0.0,2,"1, 0"
+ever_married,str,0,0.0,2,"Yes, No"
+work_type,str,0,0.0,5,"Private, Self-employed, Govt_job, children"
+Residence_type,str,0,0.0,2,"Urban, Rural"
+avg_glucose_level,float64,0,0.0,3979,"228.69, 202.21, 105.92, 171.23"
+bmi,float64,201,3.93,418,"36.6, 32.5, 34.4, 24.0"
+smoking_status,str,0,0.0,4,"formerly smoked, never smoked, smokes, Unknown"
+stroke,int64,0,0.0,2,"1, 0"
