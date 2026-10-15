@@ -1,4 +1,0 @@
-﻿feature,test,u_statistic,p_value,rank_biserial,median_no_stroke,median_stroke,mean_no_stroke,mean_stroke,shapiro_p_no_stroke,shapiro_p_stroke,normality_rejected,p_adjusted_bh,significant_0.05,direction
-age,Mann-Whitney U,1009878.5,3.8497341579673305e-71,0.669,43.0,71.0,41.97,67.73,0.0,0.0,True,1.1549202473901991e-70,True,กลุ่ม stroke มีค่าสูงกว่า
-avg_glucose_level,Mann-Whitney U,739058.0,3.583094987269707e-09,0.2214,91.47,105.22,104.79,132.54,0.0,0.0,True,5.374642480904561e-09,True,กลุ่ม stroke มีค่าสูงกว่า
-bmi,Mann-Whitney U,568828.0,0.00010418772123808268,0.1584,28.0,29.7,28.82,30.47,0.0,5e-06,True,0.0001041877212380827,True,กลุ่ม stroke มีค่าสูงกว่า
