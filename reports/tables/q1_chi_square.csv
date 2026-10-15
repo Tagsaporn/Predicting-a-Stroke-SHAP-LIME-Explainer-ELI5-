@@ -1,0 +1,8 @@
+﻿feature,test,chi2,dof,p_value,cramers_v,effect_size,n,min_expected_count,pct_cells_expected_lt5,warning,stroke_rate_by_group_%,p_adjusted_bh,significant_0.05
+gender,Chi-square,0.34,1,0.5598277580669416,0.0,น้อยมาก (negligible),5109,103.08,0.0,,Female: 4.71 | Male: 5.11,0.5598277580669416,False
+ever_married,Chi-square,58.8678,1,1.6862856191673454e-14,0.1074,น้อย (small),5109,85.58,0.0,,No: 1.65 | Yes: 6.56,3.934666444723806e-14,True
+work_type,Chi-square,49.1591,4,5.40903546949726e-10,0.094,น้อยมาก (negligible),5109,1.07,10.0,,Govt_job: 5.02 | Never_worked: 0.0 | Private: 5.1 | Self-employed: 7.94 | children: 0.29,9.465812071620203e-10,True
+Residence_type,Chi-square,1.075,1,0.29982523877153633,0.0065,น้อยมาก (negligible),5109,122.48,0.0,,Rural: 4.54 | Urban: 5.2,0.3497961119001258,False
+smoking_status,Chi-square,29.2257,3,2.0077041756108317e-06,0.0717,น้อยมาก (negligible),5109,38.45,0.0,,Unknown: 3.04 | formerly smoked: 7.92 | never smoked: 4.76 | smokes: 5.32,2.8107858458551645e-06,True
+hypertension,Chi-square,81.5731,1,1.688936253410575e-19,0.1271,น้อย (small),5109,24.27,0.0,,0: 3.97 | 1: 13.25,5.911276886937012e-19,True
+heart_disease,Chi-square,90.2294,1,2.120831133146208e-21,0.1342,น้อย (small),5109,13.45,0.0,,0: 4.18 | 1: 17.03,1.4845817932023457e-20,True
